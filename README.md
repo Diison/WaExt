@@ -3,9 +3,8 @@
 WaExt is a toolset built on PyTorch and PyKEEN, designed for weight-aware evaluation and extension of Knowledge Graph Embedding (KGE) models. The toolkit provides a framework for weight-aware tasks that can extend and assess KGE models. Currently, the toolkit runs somewhat slowly, and we are working on optimizing the code to improve performance.
 
 ## Dependencies
-1. PyKEEN  
-2. PyTorch  
-3. NumPy
+1. PyKEEN version=1.8.1  
+2. PyTorch version=1.10  
 
 ## Usage
 To train and evaluate the model, use the following command:
